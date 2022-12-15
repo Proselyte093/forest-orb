@@ -99,12 +99,12 @@
             }
           },
           "nametagMode": {
-            "label": "Nametags",
+            "label": "玩家名称显示",
             "values": {
-              "none": "None",
-              "classic": "Classic",
-              "compact": "Compact",
-              "slim": "Slim"
+              "none": "不显示",
+              "classic": "经典",
+              "compact": "紧凑",
+              "slim": "细小"
             }
           },
           "togglePlayerSounds": "同步玩家音效",
